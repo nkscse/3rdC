@@ -1,2 +1,1 @@
-# 3rdC
-this is the readme file of 3rdC repository
+this explains git pull.. purpose is to fetch latest changes made to remote repository
